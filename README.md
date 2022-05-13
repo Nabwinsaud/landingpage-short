@@ -1,3 +1,3 @@
 # landingpage-short
 
-![deomooflandingpage](https://landing-studytech.netlify.app/)
+# [deomooflandingpage](https://landing-studytech.netlify.app/)
